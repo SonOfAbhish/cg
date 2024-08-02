@@ -2,6 +2,7 @@
 import sys
 from OpenGL.GL import *
 from OpenGL.GLUT import *
+from OpenGL.GLU import glOrtho2d
 
 angle = 0.0
 scale_factor = 1.0
